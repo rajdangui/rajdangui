@@ -1,135 +1,128 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Dangui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Raj%20Dangui&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn" />
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Raj+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Contributor;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://github.com/rajdangui">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+things+that+live+on+the+internet.;Full+Stack+%7C+React+%2F+Next.js+%7C+Node.js;TypeScript+%E2%80%A2+Python+%E2%80%A2+Always+learning." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Animated Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdangui/rajdangui/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajdangui/rajdangui/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rajdangui/rajdangui/output/github-snake.svg" />
-</picture>
+<!-- Social Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-rajdangui-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)](https://github.com/rajdangui)
+[![Profile Views](https://komarev.com/ghpvc/?username=rajdangui&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/rajdangui)
 
 </div>
 
 ---
 
-## About Me
+## `> whoami`
 
-```yaml
-name: Raj Dangui
-role: Full-Stack Developer
-location: Earth
-pronouns: he/him
-currently_working_on: Exciting open-source projects
-currently_learning: Cloud architecture & AI/ML
-looking_to_collaborate_on: Innovative web applications
-ask_me_about: [Web Dev, APIs, DevOps, Open Source]
-fun_fact: I debug code with coffee and determination
+```ts
+const raj = {
+  role        : "Full Stack Developer",
+  location    : "India 🇮🇳",
+  focus       : ["Web Apps", "APIs", "Developer Experience"],
+  currentlyOn : "Building something cool...",
+  funFact     : "I think in components and dream in async/await",
+  available   : true,   // open to interesting projects
+};
 ```
 
 ---
 
-## Tech Stack
+## `> tech.stack`
 
 <div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-**Frameworks & Libraries**
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**Databases & Cloud**
+**Backend & Runtime**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
 
-**Tools**
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 </div>
 
 ---
 
-## GitHub Stats
+## `> github.stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdangui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdangui&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdangui&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdangui&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rajdangui&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajdangui&bg_color=1a1b27&color=628fdb&line=38bdae&point=f8d847&area=true&hide_border=false&border_radius=12)
+<img width="70%" src="https://streak-stats.demolab.com?user=rajdangui&theme=github-dark-blue&background=0d1117&border=00d4ff&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## `> activity`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajdangui&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajdangui&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&radius=6" />
 
 </div>
 
 ---
 
-## Connect With Me
+## `> currently`
 
-<div align="center">
+```bash
+$ git log --oneline --graph
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajdangui)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajdangui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rajdangui.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdangui@gmail.com)
-
-</div>
+- 🔭 &nbsp; Working on **full-stack projects** with Next.js + Node.js
+- 🌱 &nbsp; Deepening expertise in **TypeScript** and **system design**
+- 🧩 &nbsp; Exploring **AI integrations** in modern web apps
+- 💬 &nbsp; Ask me about **React, Next.js, Node.js, or Python**
+- ⚡ &nbsp; Fun fact: The best debugging tool is a good night's sleep
 
 ---
 
+## `> connect`
+
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+[![GitHub](https://img.shields.io/badge/github.com%2Frajdangui-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/rajdangui)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rajdangui@gmail.com)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=rajdangui&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
 
-*Star my repos if you find them useful!*
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
+
