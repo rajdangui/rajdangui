@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Raj%20Dangui&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Raj%20Dangui&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/rajdangui">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+things+that+live+on+the+internet.;Full+Stack+%7C+React+%2F+Next.js+%7C+Node.js;TypeScript+%E2%80%A2+Python+%E2%80%A2+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+things+that+live+on+the+internet.;Full+Stack+%7C+React+%2F+Next.js+%7C+Node.js;Firebase+%E2%80%A2+Vite+%E2%80%A2+Always+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,8 +24,8 @@
 const raj = {
   role        : "Full Stack Developer",
   location    : "India 🇮🇳",
-  focus       : ["Web Apps", "APIs", "Developer Experience"],
-  currentlyOn : "Building something cool...",
+  focus       : ["Web Apps", "Real-time Systems", "UI/UX"],
+  currentlyOn : "Anime Tracker — a social anime/manga platform",
   funFact     : "I think in components and dream in async/await",
   available   : true,   // open to interesting projects
 };
@@ -39,90 +39,78 @@ const raj = {
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-**Backend & Runtime**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
 ---
 
-## `> github.stats`
+## `> featured.projects`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdangui&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdangui&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rajdangui&theme=github-dark-blue&background=0d1117&border=00d4ff&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎌 [**Anime Tracker**](https://github.com/rajdangui/anime-tracker) | Full-featured social anime & manga tracking platform with leaderboards, tier lists, friend system, community forum, XP/leveling, and real-time cloud sync | React · Firebase · Vite · PWA |
+| 🧠 [**OnScreen AI**](https://github.com/rajdangui/onscreen-ai) | AI-powered screen assistant tool | JavaScript |
+| 🤝 [**SkillBridge**](https://github.com/rajdangui/skillbridge) | Platform connecting people to exchange and learn skills | JavaScript |
+| 🏥 [**LifeCare Hospital**](https://github.com/rajdangui/lifecare-hospital-frontend) | Full-stack hospital management system with appointment booking | React · Node.js · Express |
+| 🎮 [**Neon Defense**](https://github.com/rajdangui/neon-defense-game) | Browser-based neon-themed tower defense game | HTML · CSS · JS |
+| 🔐 [**Password Generator**](https://github.com/rajdangui/password-generator) | Secure password generator with customizable rules | HTML · CSS · JS |
 
 </div>
 
 ---
 
-## `> activity`
+## `> stats`
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajdangui&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&radius=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajdangui&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdangui&theme=radical&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdangui&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
 
 ---
 
-## `> currently`
-
-```bash
-$ git log --oneline --graph
-```
-
-- 🔭 &nbsp; Working on **full-stack projects** with Next.js + Node.js
-- 🌱 &nbsp; Deepening expertise in **TypeScript** and **system design**
-- 🧩 &nbsp; Exploring **AI integrations** in modern web apps
-- 💬 &nbsp; Ask me about **React, Next.js, Node.js, or Python**
-- ⚡ &nbsp; Fun fact: The best debugging tool is a good night's sleep
-
----
-
-## `> connect`
+## `> activity.graph`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github.com%2Frajdangui-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/rajdangui)
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rajdangui@gmail.com)
-
-<br/>
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
+[![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajdangui&bg_color=0d1117&color=00d4ff&line=7928ca&point=00d4ff&area=true&area_color=7928ca&hide_border=true)](https://github.com/rajdangui)
 
 </div>
 
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=120&section=footer" />
+
+</div>
