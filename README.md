@@ -90,7 +90,7 @@ const raj = {
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🌸 [**Anime Tracker**](https://github.com/rajdangui/anime-tracker) · [🌐 Live](YOUR_DEPLOYED_URL) | Local-first anime tracking PWA — Jikan/MAL API search, drag-and-drop tier lists, Firebase cloud sync, airing schedules & achievement badges | React · Firebase · Vite · PWA | ✅ Active |
+| 🌸 [**Anime Tracker**](https://github.com/rajdangui/anime-tracker) · [🌐 Live](anime-tracker-nu-eight.vercel.app) | Local-first anime tracking PWA — Jikan/MAL API search, drag-and-drop tier lists, Firebase cloud sync, airing schedules & achievement badges | React · Firebase · Vite · PWA | ✅ Active |
 | 🦉 [**SkillBridge**](https://github.com/rajdangui/skillbridge) | MERN-stack student career & academic platform — Gemini AI co-pilot, ATS resume scanner, cover letter gen, attendance forecasting & GPA ledger | React · Node · MongoDB · Gemini | ✅ Active |
 | 💘 [**Soul-Sync**](https://github.com/ImmortalCedwin/Soul-Sync) *(Collab)* | Taste-based dating app matching users via Spotify & YouTube habits — 256-dim pgvector embeddings, real-time WebSocket chat, LGBTQ+ engine | React Native · Fastify · Supabase | 🚧 WIP |
 | 📈 [**money-machine**](https://github.com/rajdangui/money-machine) | Self-learning XAU/USD automated trading bot with ML-driven signals and MetaTrader 5 execution engine | Python · ML · MetaTrader5 | 🚧 WIP |
