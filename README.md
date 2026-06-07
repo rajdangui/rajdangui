@@ -49,7 +49,6 @@ const raj = {
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84)
 
@@ -74,6 +73,11 @@ const raj = {
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Expo](https://img.shields.io/badge/Expo_Go-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
+![Razorpay](https://img.shields.io/badge/Razorpay-0d1117?style=for-the-badge&logo=razorpay&logoColor=02042B)
+![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
@@ -86,7 +90,7 @@ const raj = {
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🌸 [**Anime Tracker**](https://github.com/rajdangui/anime-tracker) | Local-first anime tracking PWA — Jikan/MAL API search, drag-and-drop tier lists, Firebase cloud sync, airing schedules & achievement badges | React · Firebase · Vite · PWA | ✅ Active |
+| 🌸 [**Anime Tracker**](https://github.com/rajdangui/anime-tracker) · [🌐 Live](YOUR_DEPLOYED_URL) | Local-first anime tracking PWA — Jikan/MAL API search, drag-and-drop tier lists, Firebase cloud sync, airing schedules & achievement badges | React · Firebase · Vite · PWA | ✅ Active |
 | 🦉 [**SkillBridge**](https://github.com/rajdangui/skillbridge) | MERN-stack student career & academic platform — Gemini AI co-pilot, ATS resume scanner, cover letter gen, attendance forecasting & GPA ledger | React · Node · MongoDB · Gemini | ✅ Active |
 | 💘 [**Soul-Sync**](https://github.com/ImmortalCedwin/Soul-Sync) *(Collab)* | Taste-based dating app matching users via Spotify & YouTube habits — 256-dim pgvector embeddings, real-time WebSocket chat, LGBTQ+ engine | React Native · Fastify · Supabase | 🚧 WIP |
 | 📈 [**money-machine**](https://github.com/rajdangui/money-machine) | Self-learning XAU/USD automated trading bot with ML-driven signals and MetaTrader 5 execution engine | Python · ML · MetaTrader5 | 🚧 WIP |
@@ -102,7 +106,7 @@ const raj = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajdangui&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdangui&theme=radical&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=rajdangui&theme=radical&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
 
 <br/>
 
